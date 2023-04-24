@@ -36,6 +36,7 @@ body {
 }
 .task-row-wrapper {
   display: flex;
+  align-items: center;
 }
 ul {
   margin: 0;
